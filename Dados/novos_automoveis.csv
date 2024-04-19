@@ -1,6 +1,6 @@
 Marca,Modelo,Ano,Tipo_combustivel,Potencia_motor,Cilindros_motor,Tipo_transmissao,Rodas_motrizes,Numero_portas,Tamanho,Estilo,Consumo_estrada,Consumo_cidade,Valor
-Suzuki,Equator,2012,gasolina comum,152.0,4.0,manual,tracao traseira,4.0,compacto,picape cabine estendida,22,17,29899
-Toyota,MR2,1996,gasolina comum,200.0,4.0,manual,tracao traseira,2.0,compacto,cupe,27,16,2154
 Cadillac,CTS Wagon,2013,gasolina comum,270.0,6.0,automatico,tracao integral,4.0,medio,perua,25,12,45095
-Nissan,Juke,2016,gasolina premium (recomendada),188.0,4.0,automatico,tracao integral,4.0,compacto,hatchback 4 portas,30,25,25940
 Volkswagen,Jetta SportWagen,2011,diesel,140.0,4.0,manual automatizado,tracao dianteira,4.0,compacto,perua,40,28,28640
+Honda,Civic,2015,gasolina comum,158.0,4.0,automatico,tracao dianteira,4.0,medio,seda,40,30,22140
+Volkswagen,Rabbit,2009,gasolina comum,170.0,5.0,automatico,tracao dianteira,2.0,compacto,hatchback 2 portas,27,18,19200
+Audi,Q5,2016,diesel,240.0,6.0,automatico,tracao integral,4.0,medio,SUV 4 portas,30,22,49800
