@@ -1,4 +1,7 @@
 Marca,Modelo,Ano,Tipo_combustivel,Potencia_motor,Cilindros_motor,Tipo_transmissao,Rodas_motrizes,Numero_portas,Tamanho,Estilo,Consumo_estrada,Consumo_cidade,Valor
 Acura,TSX,2013,gasolina premium (recomendada),201.0,4.0,automatico,tracao dianteira,4.0,medio,seda,31,22,33610
-Honda,HR-V,2017,gasolina comum,141.0,4.0,automatico,tracao integral,4.0,compacto,SUV 4 portas,31,27,23515
 Chevrolet,Equinox,2015,gasolina comum,182.0,4.0,automatico,tracao integral,4.0,compacto,SUV 4 portas,29,20,33670
+Ford,E-150,1998,gasolina comum,200.0,6.0,automatico,tracao traseira,3.0,medio,van de passageiros,17,12,2169
+Chevrolet,Silverado 1500 Classic,2007,flex (gasolina/E85),295.0,8.0,automatico,tracao traseira,4.0,grande,picape cabine estendida,19,14,30465
+Volkswagen,New Beetle,2009,gasolina comum,150.0,5.0,automatico,tracao dianteira,2.0,compacto,hatchback 2 portas,29,20,19390
+
