@@ -1,7 +1,6 @@
 Marca,Modelo,Ano,Tipo_combustivel,Potencia_motor,Cilindros_motor,Tipo_transmissao,Rodas_motrizes,Numero_portas,Tamanho,Estilo,Consumo_estrada,Consumo_cidade,Valor
-Cadillac,CTS Wagon,2013,gasolina comum,270.0,6.0,automatico,tracao integral,4.0,medio,perua,25,12,45095
-Volkswagen,Jetta SportWagen,2011,diesel,140.0,4.0,manual automatizado,tracao dianteira,4.0,compacto,perua,40,28,28640
-Honda,Civic,2015,gasolina comum,158.0,4.0,automatico,tracao dianteira,4.0,medio,seda,40,30,22140
-Volkswagen,Rabbit,2009,gasolina comum,170.0,5.0,automatico,tracao dianteira,2.0,compacto,hatchback 2 portas,27,18,19200
-Audi,Q5,2016,diesel,240.0,6.0,automatico,tracao integral,4.0,medio,SUV 4 portas,30,22,49800
-
+Acura,TSX,2013,gasolina premium (recomendada),201.0,4.0,automatico,tracao dianteira,4.0,medio,seda,31,22,33610
+Chevrolet,Malibu,2015,gasolina comum,196.0,4.0,automatico,tracao dianteira,4.0,medio,seda,36,25,28195
+Subaru,XV Crosstrek,2013,gasolina comum,148.0,4.0,automatico,tracao integral,4.0,compacto,SUV 4 portas,33,25,22995
+Honda,HR-V,2017,gasolina comum,141.0,4.0,automatico,tracao integral,4.0,compacto,SUV 4 portas,31,27,23515
+Chevrolet,Equinox,2015,gasolina comum,182.0,4.0,automatico,tracao integral,4.0,compacto,SUV 4 portas,29,20,33670
