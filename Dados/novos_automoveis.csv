@@ -1,7 +1,10 @@
 Marca,Modelo,Ano,Tipo_combustivel,Potencia_motor,Cilindros_motor,Tipo_transmissao,Rodas_motrizes,Numero_portas,Tamanho,Estilo,Consumo_estrada,Consumo_cidade,Valor
-Acura,TSX,2013,gasolina premium (recomendada),201.0,4.0,automatico,tracao dianteira,4.0,medio,seda,31,22,33610
-Chevrolet,Equinox,2015,gasolina comum,182.0,4.0,automatico,tracao integral,4.0,compacto,SUV 4 portas,29,20,33670
-Ford,E-150,1998,gasolina comum,200.0,6.0,automatico,tracao traseira,3.0,medio,van de passageiros,17,12,2169
-Chevrolet,Silverado 1500 Classic,2007,flex (gasolina/E85),295.0,8.0,automatico,tracao traseira,4.0,grande,picape cabine estendida,19,14,30465
-Volkswagen,New Beetle,2009,gasolina comum,150.0,5.0,automatico,tracao dianteira,2.0,compacto,hatchback 2 portas,29,20,19390
-
+Porsche,911,2016,gasolina premium (obrigatoria),400.0,6.0,manual,tracao traseira,2.0,compacto,cupe,27,19,98900
+Chevrolet,TrailBlazer EXT,2006,gasolina comum,291.0,6.0,automatico,tracao traseira,4.0,grande,SUV 4 portas,19,14,27980
+Volkswagen,Beetle Convertible,2015,gasolina premium (recomendada),210.0,4.0,manual automatizado,tracao dianteira,2.0,compacto,conversivel,29,23,31995
+Ford,Tempo,1992,gasolina comum,96.0,4.0,manual,tracao dianteira,2.0,compacto,cupe,30,21,2000
+Cadillac,Escalade ESV,2015,flex (gasolina/E85),420.0,8.0,automatico,tracao nas quatro rodas,4.0,grande,SUV 4 portas,20,14,81295
+Mitsubishi,Galant,2011,gasolina comum,160.0,4.0,automatico,tracao dianteira,4.0,medio,seda,30,21,23999
+Suzuki,SX4,2011,gasolina comum,148.0,4.0,automatico,tracao integral,4.0,compacto,hatchback 4 portas,29,23,18599
+Cadillac,CTS,2015,gasolina premium (recomendada),272.0,4.0,automatico,tracao traseira,4.0,grande,seda,30,20,60070
+Kia,Optima,2015,gasolina comum,192.0,4.0,automatico,tracao dianteira,4.0,medio,seda,34,23,21840
