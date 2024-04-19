@@ -1,0 +1,101 @@
+Marca,Modelo,Ano,Tipo_combustivel,Potencia_motor,Cilindros_motor,Tipo_transmissao,Rodas_motrizes,Numero_portas,Tamanho,Estilo,Consumo_estrada,Consumo_cidade,Valor
+Volkswagen,Beetle,2016,gasolina comum,170.0,4.0,automatico,tracao dianteira,2.0,compacto,hatchback 2 portas,31,24,23995
+Mercedes-Benz,E-Class,2016,gasolina premium (obrigatoria),577.0,8.0,automatico,tracao integral,4.0,medio,seda,22,15,101700
+Volkswagen,New Beetle,2008,gasolina comum,150.0,5.0,automatico,tracao dianteira,2.0,compacto,conversivel,28,20,25740
+Infiniti,Q70,2014,gasolina premium (obrigatoria),420.0,8.0,automatico,tracao traseira,4.0,grande,seda,24,16,62100
+Ford,Five Hundred,2005,gasolina comum,203.0,6.0,automatico,tracao integral,4.0,grande,seda,23,17,28090
+Saab,900,1997,gasolina comum,185.0,4.0,manual,tracao dianteira,2.0,compacto,hatchback 2 portas,25,18,2000
+Ford,F-150,2017,flex (gasolina/E85),385.0,8.0,automatico,tracao traseira,4.0,grande,picape cabine dupla,22,15,52835
+Nissan,Titan,2014,gasolina comum,317.0,8.0,automatico,tracao nas quatro rodas,4.0,grande,picape cabine dupla,17,12,37320
+Suzuki,Esteem,2000,gasolina comum,95.0,4.0,manual,tracao dianteira,4.0,compacto,seda,33,26,2000
+GMC,Envoy XL,2005,gasolina comum,300.0,8.0,automatico,tracao traseira,4.0,grande,SUV 4 portas,19,13,38160
+Volvo,XC60,2015,gasolina comum,240.0,4.0,automatico,tracao dianteira,4.0,medio,SUV 4 portas,31,24,43900
+Mercedes-Benz,C-Class,2017,gasolina premium (obrigatoria),362.0,6.0,automatico,tracao integral,4.0,medio,seda,29,21,52000
+Ford,F-150,2016,gasolina comum,325.0,6.0,automatico,tracao traseira,4.0,grande,picape cabine dupla,26,19,42425
+Volkswagen,Beetle,2015,gasolina premium (recomendada),210.0,4.0,manual automatizado,tracao dianteira,2.0,compacto,hatchback 2 portas,30,24,29215
+GMC,Canyon,2012,gasolina comum,242.0,5.0,automatico,tracao nas quatro rodas,4.0,compacto,picape cabine estendida,23,17,29145
+Hyundai,Scoupe,1995,gasolina comum,92.0,4.0,manual,tracao dianteira,2.0,compacto,cupe,33,24,2000
+Honda,Civic del Sol,1997,gasolina comum,106.0,4.0,manual,tracao dianteira,2.0,compacto,cupe,35,28,2142
+Honda,Accord,2017,gasolina comum,278.0,6.0,manual,tracao dianteira,2.0,medio,cupe,28,18,31175
+Mercedes-Benz,CL-Class,2012,gasolina premium (obrigatoria),621.0,12.0,automatico,tracao traseira,2.0,grande,cupe,18,12,211000
+Infiniti,M56,2011,gasolina premium (obrigatoria),420.0,8.0,automatico,tracao traseira,4.0,grande,seda,25,16,58450
+Infiniti,EX,2013,gasolina premium (recomendada),325.0,6.0,automatico,tracao integral,4.0,medio,SUV 4 portas,24,17,40650
+Toyota,Tundra,2015,flex (gasolina/E85),381.0,8.0,automatico,tracao nas quatro rodas,4.0,grande,picape cabine estendida,17,13,33060
+Volvo,780,1990,gasolina comum,144.0,6.0,automatico,tracao traseira,2.0,medio,cupe,19,15,2000
+Dodge,Nitro,2010,gasolina comum,260.0,6.0,automatico,tracao traseira,4.0,medio,SUV 4 portas,21,16,26750
+Mercedes-Benz,E-Class,2016,gasolina premium (obrigatoria),302.0,6.0,automatico,tracao integral,4.0,medio,perua,27,20,59900
+Mazda,CX-5,2016,gasolina comum,184.0,4.0,automatico,tracao integral,4.0,medio,SUV 4 portas,30,24,26465
+Nissan,Rogue,2016,gasolina comum,170.0,4.0,automatico,tracao integral,4.0,medio,SUV 4 portas,32,25,30080
+Chrysler,New Yorker,1995,gasolina comum,214.0,6.0,automatico,tracao dianteira,4.0,grande,seda,24,16,2000
+GMC,Jimmy,2000,gasolina comum,190.0,6.0,manual,tracao traseira,2.0,compacto,SUV 2 portas,21,15,2322
+Volkswagen,Golf GTI,2015,gasolina premium (recomendada),210.0,4.0,manual,tracao dianteira,2.0,compacto,hatchback 2 portas,34,25,27785
+Land Rover,Defender,1995,gasolina comum,182.0,8.0,manual,tracao nas quatro rodas,2.0,compacto,SUV 2 portas,15,12,30709
+Dodge,Ram Van,1998,gasolina comum,230.0,8.0,automatico,tracao traseira,3.0,medio,van de carga,17,12,2239
+Nissan,Cube,2012,gasolina comum,122.0,4.0,automatico,tracao dianteira,4.0,compacto,perua,31,27,17580
+Chevrolet,Corvette,2016,gasolina premium (obrigatoria),650.0,8.0,manual,tracao traseira,2.0,compacto,conversivel,22,15,83400
+Mitsubishi,Diamante,2002,gasolina premium (obrigatoria),205.0,6.0,automatico,tracao dianteira,4.0,medio,seda,23,16,25687
+Ford,E-150,1997,gasolina comum,200.0,6.0,automatico,tracao traseira,3.0,medio,van de carga,18,14,2000
+Volvo,S70,1999,gasolina comum,162.0,5.0,manual,tracao dianteira,4.0,medio,seda,26,19,2172
+Hyundai,Santa Fe Sport,2016,gasolina comum,190.0,4.0,automatico,tracao integral,4.0,medio,SUV 4 portas,25,19,26700
+Oldsmobile,Cutlass,1998,gasolina comum,155.0,6.0,automatico,tracao dianteira,4.0,medio,seda,27,17,2079
+Chevrolet,Aveo,2010,gasolina comum,108.0,4.0,manual,tracao dianteira,4.0,compacto,seda,35,27,15365
+Mercedes-Benz,500-Class,1991,gasolina comum,322.0,8.0,automatico,tracao traseira,2.0,compacto,conversivel,17,13,4155
+Nissan,Maxima,2017,gasolina premium (recomendada),300.0,6.0,automatico,tracao dianteira,4.0,medio,seda,30,21,37090
+Mazda,MX-5 Miata,2014,gasolina premium (recomendada),167.0,4.0,manual,tracao traseira,2.0,compacto,conversivel,28,21,28665
+Chevrolet,Silverado 1500,2015,flex (gasolina/E85),285.0,6.0,automatico,tracao traseira,2.0,grande,picape cabine simples,24,18,33215
+Infiniti,FX35,2009,gasolina premium (obrigatoria),303.0,6.0,automatico,tracao traseira,4.0,medio,SUV 4 portas,23,16,42150
+BMW,1 Series,2013,gasolina premium (obrigatoria),300.0,6.0,manual,tracao traseira,2.0,compacto,conversivel,28,19,44400
+Dodge,Grand Caravan,2016,flex (gasolina/E85),283.0,6.0,automatico,tracao dianteira,4.0,medio,minivan de passageiros,25,17,29395
+Chevrolet,Silverado 1500,2015,flex (gasolina/E85),285.0,6.0,automatico,tracao nas quatro rodas,4.0,grande,picape cabine estendida,22,17,37730
+BMW,2 Series,2017,gasolina premium (recomendada),335.0,6.0,automatico,tracao traseira,2.0,compacto,conversivel,32,21,49050
+Nissan,Frontier,2017,gasolina comum,152.0,4.0,automatico,tracao traseira,4.0,compacto,picape cabine estendida,22,17,22160
+GMC,Sierra 1500,2015,gasolina comum,355.0,8.0,automatico,tracao traseira,4.0,grande,picape cabine dupla,23,16,43360
+Audi,Coupe,1990,gasolina comum,164.0,5.0,manual,tracao integral,2.0,compacto,hatchback 2 portas,22,16,2000
+Dodge,RAM 150,1993,gasolina comum,180.0,6.0,manual,tracao traseira,2.0,grande,picape cabine simples,17,14,2000
+Bentley,Azure T,2010,gasolina premium (obrigatoria),500.0,8.0,automatico,tracao traseira,2.0,grande,conversivel,15,9,363000
+Chevrolet,Silverado 1500,2017,gasolina comum,355.0,8.0,automatico,tracao nas quatro rodas,4.0,grande,picape cabine dupla,22,16,40580
+Volkswagen,CC,2015,gasolina premium (recomendada),200.0,4.0,manual,tracao dianteira,4.0,medio,seda,32,21,34275
+GMC,Vandura,1995,gasolina comum,165.0,6.0,automatico,tracao traseira,3.0,medio,van de carga,15,13,2000
+Ford,Explorer,2015,flex (gasolina/E85),290.0,6.0,automatico,tracao integral,4.0,medio,SUV 4 portas,23,17,35000
+Kia,Rio,2015,gasolina comum,138.0,4.0,automatico,tracao dianteira,4.0,compacto,hatchback 4 portas,37,27,18290
+Ford,Mustang,2017,gasolina comum,300.0,6.0,manual,tracao traseira,2.0,medio,cupe,27,18,24645
+Subaru,Impreza WRX,2013,gasolina premium (obrigatoria),265.0,4.0,manual,tracao integral,4.0,compacto,seda,25,19,25795
+Volvo,XC60,2015,gasolina comum,250.0,5.0,automatico,tracao integral,4.0,medio,SUV 4 portas,25,18,37900
+Dodge,Neon,2004,gasolina comum,132.0,4.0,manual,tracao dianteira,4.0,compacto,seda,32,25,15800
+Nissan,Murano,2016,gasolina comum,250.0,4.0,automatico,tracao dianteira,4.0,medio,SUV 4 portas,31,28,40130
+Infiniti,G Sedan,2012,gasolina premium (recomendada),328.0,6.0,manual,tracao traseira,4.0,medio,seda,25,17,41500
+Mazda,B-Series,2001,gasolina comum,207.0,6.0,manual,tracao nas quatro rodas,4.0,compacto,picape cabine estendida,18,14,22085
+Toyota,ECHO,2004,gasolina comum,108.0,4.0,manual,tracao dianteira,2.0,compacto,cupe,38,30,10355
+Nissan,Frontier,2016,gasolina comum,261.0,6.0,automatico,tracao nas quatro rodas,4.0,compacto,picape cabine dupla,21,15,35610
+Toyota,Venza,2013,gasolina comum,181.0,4.0,automatico,tracao integral,4.0,medio,perua,26,20,32960
+Mazda,CX-5,2016,gasolina comum,155.0,4.0,manual,tracao dianteira,4.0,medio,SUV 4 portas,35,26,21795
+Chevrolet,Trax,2015,gasolina comum,138.0,4.0,automatico,tracao integral,4.0,compacto,SUV 4 portas,31,24,21540
+Porsche,Panamera,2016,gasolina premium (obrigatoria),310.0,6.0,manual automatizado,tracao traseira,4.0,grande,seda,28,18,80000
+Honda,Pilot,2017,gasolina comum,280.0,6.0,automatico,tracao integral,4.0,medio,SUV 4 portas,26,19,43470
+Chevrolet,HHR,2011,flex (gasolina/E85),155.0,4.0,manual,tracao dianteira,4.0,compacto,perua,32,22,18720
+Ford,Contour SVT,1999,gasolina comum,200.0,6.0,manual,tracao dianteira,4.0,medio,seda,26,17,2702
+Toyota,Tacoma,2017,gasolina comum,278.0,6.0,automatico,tracao traseira,4.0,compacto,picape cabine dupla,24,19,29690
+Hyundai,Elantra,2015,gasolina comum,145.0,4.0,manual,tracao dianteira,4.0,compacto,seda,37,27,17250
+Mazda,2,2014,gasolina comum,100.0,4.0,automatico,tracao dianteira,4.0,compacto,hatchback 4 portas,34,28,17050
+Land Rover,Range Rover,2016,gasolina premium (recomendada),550.0,8.0,automatico,tracao nas quatro rodas,4.0,grande,SUV 4 portas,19,14,199495
+Chevrolet,Sportvan,1994,gasolina comum,200.0,8.0,automatico,tracao traseira,3.0,medio,van de passageiros,16,11,2000
+Cadillac,CTS,2017,gasolina comum,335.0,6.0,automatico,tracao traseira,4.0,grande,seda,30,20,59195
+Audi,Q5,2016,diesel,240.0,6.0,automatico,tracao integral,4.0,medio,SUV 4 portas,31,24,50200
+Toyota,Avalon,2016,gasolina comum,268.0,6.0,automatico,tracao dianteira,4.0,medio,seda,31,21,32650
+Ford,Transit Connect,2016,gasolina comum,169.0,4.0,automatico,tracao dianteira,4.0,compacto,minivan de passageiros,28,20,24825
+Pontiac,Aztek,2003,gasolina comum,185.0,6.0,automatico,tracao integral,4.0,medio,SUV 4 portas,22,16,23820
+Volkswagen,Beetle Convertible,2014,gasolina comum,170.0,4.0,automatico,tracao dianteira,2.0,compacto,conversivel,32,24,25170
+Chevrolet,C/K 1500 Series,1998,gasolina comum,230.0,8.0,manual,tracao nas quatro rodas,2.0,grande,picape cabine estendida,17,12,3676
+Ford,E-Series Wagon,2014,flex (gasolina/E85),255.0,8.0,automatico,tracao traseira,3.0,medio,van de passageiros,15,11,33560
+Nissan,Stanza,1990,gasolina comum,138.0,4.0,manual,tracao dianteira,4.0,compacto,seda,26,19,2000
+Dodge,Neon,2005,gasolina comum,132.0,4.0,manual,tracao dianteira,4.0,compacto,seda,32,25,13800
+Volkswagen,Beetle Convertible,2016,gasolina premium (recomendada),210.0,4.0,manual automatizado,tracao dianteira,2.0,compacto,conversivel,31,23,30890
+Toyota,Cressida,1992,gasolina comum,190.0,6.0,automatico,tracao traseira,4.0,medio,seda,22,17,2000
+Mazda,B-Series Pickup,2000,gasolina comum,119.0,4.0,manual,tracao traseira,2.0,compacto,picape cabine simples,24,20,2350
+Chevrolet,Monte Carlo,2006,flex (gasolina/E85),211.0,6.0,automatico,tracao dianteira,2.0,medio,cupe,29,19,20830
+Volkswagen,GLI,2012,gasolina premium (recomendada),200.0,4.0,manual,tracao dianteira,4.0,medio,seda,33,22,23745
+Chevrolet,Suburban,2016,flex (gasolina/E85),355.0,8.0,automatico,tracao nas quatro rodas,4.0,grande,SUV 4 portas,22,15,52700
+Cadillac,ATS Coupe,2017,gasolina premium (recomendada),272.0,4.0,automatico,tracao traseira,2.0,compacto,cupe,31,22,37595
+Honda,Civic,2016,gasolina comum,174.0,4.0,automatico,tracao dianteira,4.0,medio,seda,42,31,26500
+Ford,Freestar,2005,gasolina comum,,6.0,automatico,tracao dianteira,4.0,medio,minivan de passageiros,21,16,32755
+Nissan,Pathfinder,2015,gasolina comum,260.0,6.0,automatico,tracao nas quatro rodas,4.0,grande,SUV 4 portas,26,19,43250
