@@ -1,20 +1,7 @@
 Marca,Modelo,Ano,Tipo_combustivel,Potencia_motor,Cilindros_motor,Tipo_transmissao,Rodas_motrizes,Numero_portas,Tamanho,Estilo,Consumo_estrada,Consumo_cidade,Valor
-Volkswagen,Beetle,2016,gasolina comum,170.0,4.0,automatico,tracao dianteira,2.0,compacto,hatchback 2 portas,31,24,23995
-Mercedes-Benz,E-Class,2016,gasolina premium (obrigatoria),577.0,8.0,automatico,tracao integral,4.0,medio,seda,22,15,101700
-Volkswagen,New Beetle,2008,gasolina comum,150.0,5.0,automatico,tracao dianteira,2.0,compacto,conversivel,28,20,25740
-Infiniti,Q70,2014,gasolina premium (obrigatoria),420.0,8.0,automatico,tracao traseira,4.0,grande,seda,24,16,62100
-Ford,Five Hundred,2005,gasolina comum,203.0,6.0,automatico,tracao integral,4.0,grande,seda,23,17,28090
-Saab,900,1997,gasolina comum,185.0,4.0,manual,tracao dianteira,2.0,compacto,hatchback 2 portas,25,18,2000
-Ford,F-150,2017,flex (gasolina/E85),385.0,8.0,automatico,tracao traseira,4.0,grande,picape cabine dupla,22,15,52835
-Nissan,Titan,2014,gasolina comum,317.0,8.0,automatico,tracao nas quatro rodas,4.0,grande,picape cabine dupla,17,12,37320
-Suzuki,Esteem,2000,gasolina comum,95.0,4.0,manual,tracao dianteira,4.0,compacto,seda,33,26,2000
-GMC,Envoy XL,2005,gasolina comum,300.0,8.0,automatico,tracao traseira,4.0,grande,SUV 4 portas,19,13,38160
-Volvo,XC60,2015,gasolina comum,240.0,4.0,automatico,tracao dianteira,4.0,medio,SUV 4 portas,31,24,43900
-Mercedes-Benz,C-Class,2017,gasolina premium (obrigatoria),362.0,6.0,automatico,tracao integral,4.0,medio,seda,29,21,52000
-Ford,F-150,2016,gasolina comum,325.0,6.0,automatico,tracao traseira,4.0,grande,picape cabine dupla,26,19,42425
-Volkswagen,Beetle,2015,gasolina premium (recomendada),210.0,4.0,manual automatizado,tracao dianteira,2.0,compacto,hatchback 2 portas,30,24,29215
-GMC,Canyon,2012,gasolina comum,242.0,5.0,automatico,tracao nas quatro rodas,4.0,compacto,picape cabine estendida,23,17,29145
-Hyundai,Scoupe,1995,gasolina comum,92.0,4.0,manual,tracao dianteira,2.0,compacto,cupe,33,24,2000
-Honda,Civic del Sol,1997,gasolina comum,106.0,4.0,manual,tracao dianteira,2.0,compacto,cupe,35,28,2142
-Honda,Accord,2017,gasolina comum,278.0,6.0,manual,tracao dianteira,2.0,medio,cupe,28,18,31175
+Suzuki,Equator,2011,gasolina comum,152.0,4.0,manual,tracao traseira,4.0,compacto,picape cabine estendida,22,17,21899
+Toyota,MR2,1996,gasolina comum,200.0,4.0,manual,tracao traseira,2.0,compacto,cupe,27,16,2154
+Cadillac,CTS Wagon,2013,gasolina comum,270.0,6.0,automatico,tracao integral,4.0,medio,perua,25,12,45095
+Nissan,Juke,2016,gasolina premium (recomendada),188.0,4.0,automatico,tracao integral,4.0,compacto,hatchback 4 portas,30,25,25940
+Volkswagen,Jetta SportWagen,2011,diesel,140.0,4.0,manual automatizado,tracao dianteira,4.0,compacto,perua,40,28,28640
 
