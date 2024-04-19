@@ -1,0 +1,11 @@
+Marca,Modelo,Ano,Tipo_combustivel,Potencia_motor,Cilindros_motor,Tipo_transmissao,Rodas_motrizes,Numero_portas,Tamanho,Estilo,Consumo_estrada,Consumo_cidade,Valor
+GMC,Jimmy,2000,gasolina comum,190.0,6.0,automatico,tracao nas quatro rodas,4.0,medio,SUV 4 portas,18,14,2655
+Infiniti,G Coupe,2012,gasolina premium (recomendada),330.0,6.0,manual,tracao traseira,2.0,medio,cupe,25,17,44200
+Chevrolet,Express,2015,flex (gasolina/E85),285.0,8.0,automatico,tracao traseira,3.0,medio,van de passageiros,17,11,35915
+Dodge,Shadow,1994,gasolina comum,100.0,4.0,manual,tracao dianteira,2.0,compacto,hatchback 2 portas,27,21,2000
+Audi,A5,2016,gasolina premium (obrigatoria),220.0,4.0,automatico,tracao integral,2.0,medio,cupe,31,22,43800
+Chevrolet,Silverado 1500,2016,flex (gasolina/E85),285.0,6.0,automatico,tracao traseira,2.0,grande,picape cabine simples,24,18,29120
+Subaru,Forester,2017,gasolina comum,170.0,4.0,automatico,tracao integral,4.0,medio,SUV 4 portas,32,26,23595
+Cadillac,Allante,1993,gasolina comum,295.0,8.0,automatico,tracao dianteira,2.0,compacto,conversivel,20,13,2358
+Infiniti,FX,2013,gasolina premium (obrigatoria),325.0,6.0,automatico,tracao integral,4.0,medio,SUV 4 portas,22,16,46400
+Acura,Legend,1993,gasolina comum,230.0,6.0,manual,tracao dianteira,2.0,medio,cupe,23,15,2042
