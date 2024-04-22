@@ -1,6 +1,0 @@
-Marca,Modelo,Ano,Tipo_combustivel,Potencia_motor,Cilindros_motor,Tipo_transmissao,Rodas_motrizes,Numero_portas,Tamanho,Estilo,Consumo_estrada,Consumo_cidade,Valor
-Infiniti,G Coupe,2012,gasolina premium (recomendada),330.0,6.0,manual,tracao traseira,2.0,medio,cupe,25,17,44200
-Chevrolet,Express,2015,flex (gasolina/E85),285.0,8.0,automatico,tracao traseira,3.0,medio,van de passageiros,17,11,35915
-Audi,A5,2016,gasolina premium (obrigatoria),220.0,4.0,automatico,tracao integral,2.0,medio,cupe,31,22,43800
-Subaru,Forester,2017,gasolina comum,170.0,4.0,automatico,tracao integral,4.0,medio,SUV 4 portas,32,26,23595
-Infiniti,FX,2013,gasolina premium (obrigatoria),325.0,6.0,automatico,tracao integral,4.0,medio,SUV 4 portas,22,16,46400
